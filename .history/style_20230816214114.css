@@ -124,7 +124,7 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* text-align: center; */
+  text-align: center;
 }
 .r-e-text {
   color: #5f5b53;
